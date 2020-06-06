@@ -21,7 +21,7 @@ password: 12345
 
 ## API
 
-path...
+see description on [wiki page](https://github.com/SawlStone/social_network/wiki)
 
 ## Scripts Bot
 
