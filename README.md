@@ -11,6 +11,12 @@ $ pip install -r requirements.txt
 
 $ python manage.py runserver
 
+#### Docker
+
+$ cd social_network
+
+$ docker-compose up --build -d
+
 ### Credentials
 
 Admin user
